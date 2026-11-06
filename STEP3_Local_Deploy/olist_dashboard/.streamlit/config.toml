@@ -1,0 +1,46 @@
+[theme]
+baseRadius = "18px"
+buttonRadius = "10px"
+baseFontSize = 16
+headingFontSizes = ["2.45rem", "1.65rem", "1.25rem", "1.125rem", "1rem", "0.875rem"]
+headingFontWeights = [800, 700, 650, 650, 600, 600]
+metricValueFontWeight = 750
+paddingTop = "0.75rem"
+paddingBottom = "2.5rem"
+
+[theme.light]
+primaryColor = "#183455"
+backgroundColor = "#F4F6FA"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#172B44"
+borderColor = "#D8E1EC"
+blueBackgroundColor = "#DFE8F4"
+blueTextColor = "#183455"
+violetBackgroundColor = "#ECE4FA"
+greenBackgroundColor = "#DDF3E9"
+violetTextColor = "#553785"
+greenTextColor = "#145742"
+chartCategoricalColors = ["#27496F", "#7554A3", "#22826A", "#527A9B", "#9B80BB"]
+
+[theme.light.sidebar]
+backgroundColor = "#E8EFF7"
+secondaryBackgroundColor = "#FFFFFF"
+
+[theme.dark]
+primaryColor = "#315986"
+backgroundColor = "#111F32"
+secondaryBackgroundColor = "#1B2E47"
+textColor = "#EFF5FC"
+borderColor = "#3B526F"
+blueBackgroundColor = "#284562"
+blueTextColor = "#E1EEFF"
+violetBackgroundColor = "#3D325B"
+greenBackgroundColor = "#224B40"
+violetTextColor = "#E6D6FF"
+greenTextColor = "#BDF2DF"
+chartCategoricalColors = ["#93B7E1", "#C2A7EA", "#71C8A9", "#7399BB", "#A58BC2"]
+
+[theme.dark.sidebar]
+backgroundColor = "#15263D"
+secondaryBackgroundColor = "#213752"
+
